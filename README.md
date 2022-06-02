@@ -46,12 +46,10 @@
  
  <h2 id="project-files-description"> ⏯️ How to Run Game</h2>
  <ul>
-  <li><b>STEP-1 </b> - To Download Source Code and Playable Build click [Download](https://drive.google.com/drive/folders/1Aeiwm-NYEDG-VxkZVJBNHitLlna0a2yJ?usp=sharing).</li>
-  <li><b>STEP-2 </b> - Extract the **Snake Game playable(.exe).zip** for Playable Content and **Snake Game Source Code.zip** to see Source Code Content.</li>
-  <li><b>STEP-3 </b> - Open Extracted Folder Than double Click on **Snake Game Self.exe** to play game.</li>
+  <li><b>STEP-1 </b> - To Download Source Code and Playable Build click [Download](https://drive.google.com/drive/folders/1_p7Zuj9fDQnkqMdXv_K0e0hcZEXmblsj?usp=sharing).</li>
+  <li><b>STEP-2 </b> - Extract the **Flappy-Bird Build.zip** for Playable Content and **Flappy Bird Source.zip** to see Source Code Content.</li>
+  <li><b>STEP-3 </b> - Open Extracted Folder Than double Click on **Flappy Bird.exe** to play game.</li>
   <li><b>STEP-4 </b> - Enjoy the Game!.</li>
 </ul>
 
-<img src="Images/main menu.png" alt="Main-Menu" width="100%" height="600">
-<img src="Images/Game.png" alt="Main-Menu" width="100%" height="600">
-<img src="Images/GameOver.png" alt="Main-Menu" width="100%" height="600">
+<img src="Images/Gameplay.png" alt="Gameplay" width="100%" height="600">
